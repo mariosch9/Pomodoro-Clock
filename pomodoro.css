@@ -1,0 +1,20 @@
+body {
+  background-image: url("http://kozepsuli.hu/wp-content/uploads/2016/11/0528_time-pocket-watch.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Playfair Display', serif;
+}
+h2 {
+  display: inline;
+}
+#start {
+  margin: 12px;
+}
+.btn{
+  background-color:black;
+  border:black;
+}
+.block{
+padding-top:100px;
+}
